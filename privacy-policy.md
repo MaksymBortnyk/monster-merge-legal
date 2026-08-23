@@ -9,7 +9,7 @@ the mobile game **Monster Merge** (the "Game").
 
 **Controller / Publisher**\
 Maksym Bortnyk, individual entrepreneur registered in Ukraine\
-137A Saltivske Shose, Kharkiv, Ukraine\
+Kharkiv, Ukraine\
 Email: support.morun@gmail.com
 
 MoRan is a brand name and is not a separate legal entity.
@@ -329,6 +329,5 @@ obtain consent before materially changing consent-based processing.
 
 **Maksym Bortnyk, individual entrepreneur registered in Ukraine**\
 Operating under the **MoRan** brand\
-137A Saltivske Shose\
 Kharkiv, Ukraine\
 Email: **support.morun@gmail.com**
