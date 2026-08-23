@@ -17,4 +17,4 @@ operating under the MoRan brand**.
 
 **support.morun@gmail.com**
 
-137A Saltivske Shose, Kharkiv, Ukraine
+Kharkiv, Ukraine
