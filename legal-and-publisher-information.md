@@ -8,8 +8,7 @@
 Individual entrepreneur registered in Ukraine\
 Operating under the **MoRan** brand
 
-**Address:**\
-137A Saltivske Shose\
+**Location:**\
 Kharkiv, Ukraine
 
 **Email:** support.morun@gmail.com
