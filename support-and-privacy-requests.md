@@ -12,9 +12,8 @@ inquiries:
 
 **Email:** support.morun@gmail.com
 
-**Postal contact:**\
+**Publisher:**\
 Maksym Bortnyk\
-137A Saltivske Shose\
 Kharkiv, Ukraine
 
 Please include **Monster Merge** in the subject of your email and
