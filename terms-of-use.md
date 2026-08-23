@@ -15,7 +15,7 @@ excluded.
 ## 1. Publisher
 
 Maksym Bortnyk, individual entrepreneur registered in Ukraine\
-137A Saltivske Shose, Kharkiv, Ukraine\
+Kharkiv, Ukraine\
 Email: support.morun@gmail.com
 
 MoRan is a brand name and not a separate legal entity.
@@ -227,6 +227,5 @@ extent legally permitted.
 
 **Maksym Bortnyk, individual entrepreneur registered in Ukraine**\
 Operating under the **MoRan** brand\
-137A Saltivske Shose\
 Kharkiv, Ukraine\
 Email: **support.morun@gmail.com**
