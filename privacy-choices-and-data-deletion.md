@@ -82,7 +82,7 @@ and installation-based.
 
 To request deletion or exercise another applicable privacy right, email:
 
-**support.morun@gmail.com**
+**support.moran@gmail.com**
 
 Subject:
 
