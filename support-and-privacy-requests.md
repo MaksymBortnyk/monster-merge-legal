@@ -10,7 +10,7 @@ entrepreneur registered in Ukraine, operating under the MoRan brand**.
 For technical support, purchase questions, privacy questions, or legal
 inquiries:
 
-**Email:** support.morun@gmail.com
+**Email:** support.moran@gmail.com
 
 **Publisher:**\
 Maksym Bortnyk\
@@ -49,7 +49,7 @@ Depending on applicable law, you may request access, correction,
 deletion, restriction, objection, withdrawal of consent, or other
 available privacy rights.
 
-Send requests to **support.morun@gmail.com** with the subject:
+Send requests to **support.moran@gmail.com** with the subject:
 
 `Monster Merge — Privacy Request`
 
@@ -64,7 +64,7 @@ reasonably necessary to process the request.
 A parent or legal guardian may contact us regarding the processing of
 information relating to a child:
 
-**support.morun@gmail.com**
+**support.moran@gmail.com**
 
 Use the subject:
 
