@@ -33,4 +33,4 @@ The following documents govern or explain the Game:
 -   Support & Privacy Requests
 -   Privacy Choices & Data Deletion
 
-For legal or privacy inquiries, contact **support.morun@gmail.com**.
+For legal or privacy inquiries, contact **support.moran@gmail.com**.
