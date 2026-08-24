@@ -16,7 +16,7 @@ excluded.
 
 Maksym Bortnyk, individual entrepreneur registered in Ukraine\
 Kharkiv, Ukraine\
-Email: support.morun@gmail.com
+Email: support.moran@gmail.com
 
 MoRan is a brand name and not a separate legal entity.
 
@@ -228,4 +228,4 @@ extent legally permitted.
 **Maksym Bortnyk, individual entrepreneur registered in Ukraine**\
 Operating under the **MoRan** brand\
 Kharkiv, Ukraine\
-Email: **support.morun@gmail.com**
+Email: **support.moran@gmail.com**
