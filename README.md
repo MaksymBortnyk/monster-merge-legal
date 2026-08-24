@@ -15,6 +15,6 @@ operating under the MoRan brand**.
 
 ## Contact
 
-**support.morun@gmail.com**
+**support.moran@gmail.com**
 
 Kharkiv, Ukraine
