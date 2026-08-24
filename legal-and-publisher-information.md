@@ -11,7 +11,7 @@ Operating under the **MoRan** brand
 **Location:**\
 Kharkiv, Ukraine
 
-**Email:** support.morun@gmail.com
+**Email:** support.moran@gmail.com
 
 ## Game
 
