@@ -174,7 +174,7 @@ We do not knowingly ask children to submit names, emails, phone numbers,
 exact dates of birth, precise location, photos, contacts, chat messages,
 or other user-generated personal content.
 
-Parents/guardians may contact support.morun@gmail.com with concerns.
+Parents/guardians may contact support.moran@gmail.com with concerns.
 
 ## 6. Third-party services
 
@@ -272,7 +272,7 @@ identify the relevant installation may be needed. In some cases we may
 be unable to associate pseudonymous provider data with a person without
 additional information from the user/device.
 
-Requests: **support.morun@gmail.com**
+Requests: **support.moran@gmail.com**
 
 Please do not send identity documents unless we specifically determine
 verification is legally necessary.
@@ -313,7 +313,7 @@ available in-game reset functions and may change available privacy
 choices through the Privacy screen.
 
 For data held by integrated services, contact
-**support.morun@gmail.com**. We will handle requests as required and
+**support.moran@gmail.com**. We will handle requests as required and
 technically possible, including coordinating provider-specific deletion
 where applicable.
 
